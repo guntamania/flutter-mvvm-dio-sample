@@ -1,21 +1,41 @@
-# dio_sample
+# これは何
 
-A new Flutter project.
+なんの役にもたたないflutterサンプル。
 
-## Getting Started
+# 使用したライブラリ
 
-This project is a starting point for a Flutter application.
+## dio
 
-A few resources to get you started if this is your first Flutter project:
+httpクライアント。使いやすかったです。
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## provider
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Google推奨の状態管理ライブラリ。
 
-## 参考
+# アーキテクチャ
+
+MVVM風。
+StatelessWidgetをできるだけ使うようにしている。
+
+# What's this
+
+A quite silly useless flutter sample project.
+
+# Libraries that used in this project
+
+## dio
+
+http client. Very good to use.
+
+## provider
+
+Google recommends using this as state management.
+
+# アーキテクチャ
+
+MVVM like.
+
+# 参考 References
 
 - [Networking in Flutter using Dio](https://blog.logrocket.com/networking-flutter-using-dio/)
 - [Flutterでproviderを使ったMVVM開発](https://note.com/yasukotelin/n/n3cdd311fb336)
